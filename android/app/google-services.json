@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033759098941",
+    "project_id": "slamsquad2",
+    "storage_bucket": "slamsquad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033759098941:android:1a758be98ecbd734380254",
+        "android_client_info": {
+          "package_name": "com.mycompany.slamsquad2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANuwtRqt0gweW-3JFXr07Y3XAWKc4NQA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
