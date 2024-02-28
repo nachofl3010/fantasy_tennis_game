@@ -1,7 +1,6 @@
 # SlamSquad2
 
-A new Flutter project. A fantasy tennis game. Firebase integrated, google cloud functions, authentication.
+A new Flutter project. A fantasy tennis game. Firebase integrated, google cloud functions, authentication. Custom app logo and UI design.
 
-## Getting Started
+(Demo in the video)
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
